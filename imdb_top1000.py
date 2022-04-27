@@ -1,3 +1,6 @@
+#Bu program imdb2020 verilerini kullanarak ilk 1000 (film değerlendirmelerine göre) süre bazlı olarak adet tayininde kullanılır.
+
+
 import matplotlib.pyplot as plt 
 import numpy as np 
 import pandas as pd 
