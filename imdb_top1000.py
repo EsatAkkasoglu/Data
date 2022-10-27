@@ -11,7 +11,7 @@ bins = np.arange(50,260,15)
 plt.xticks(bins)
 plt.hist(film.duration, edgecolor="black", color="w" ,bins=bins, histtype='bar' )
 plt.title("imdb film süreleri")
-plt.xlabel("Süreler")
+plt.xlabel("Süreleri")
 plt.ylabel("aynı süreye sahip film sayısı") 
 
 
