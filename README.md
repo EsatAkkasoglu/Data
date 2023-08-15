@@ -1,2 +1,2 @@
-# Data
-Imdb ilk 1000 listesine dayanarak çıkarılmış bir grafik.
+# Imdb ilk 1000 listesine dayanarak çıkarılmış bir grafik.
+
